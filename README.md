@@ -63,8 +63,7 @@ Ultimaker Cura — for slicing and G-code generation
 
 YouTube — for modeling references and tutorials
 
-▶️ Demo Video
-📺 Watch on YouTube
+▶️ Demo Video : https://youtu.be/Fk93SBnxS08
 
 📁 Files
 MobilePhoneStand.FCStd – FreeCAD project file
